@@ -9,3 +9,4 @@ This repository lists components that can be used to extend the [Community Solid
 | [IPFS Backend](https://github.com/DianaNegut/css-ipfs-backend) | An IPFS (Kubo/MFS) storage backend: DataAccessor that stores Solid pod data on IPFS instead of the local filesystem. |
 | [FediPod Server](https://github.com/jeff-zucker/FediPod/tree/main/packages/fedipod-server) | Adds an ActivityPub server to the CSS install. |
 | [CSS-NextGraph](https://github.com/jeff-zucker/FediPod/tree/main/packages/css-nextgraph) | A NextGraph storage backend - encrypted pods. |
+| [Invites](https://github.com/UbiPod/css-invites) | Makes account sign-up invite-only: creating an account requires an invite code, which admins create, list and revoke at `/.account/invites/`. |
